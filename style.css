@@ -93,8 +93,8 @@ a:hover {
 }
 
 .btn-pink:hover {
-	background-color: black;
-	color: #D20263;
+	background-color: #D20263;
+	color: white;
 }
 
 .list-inline {
